@@ -1,0 +1,1 @@
+# expenses_store_plugin
